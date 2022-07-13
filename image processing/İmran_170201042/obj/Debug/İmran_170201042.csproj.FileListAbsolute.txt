@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\bin\Debug\İmran_170201042.exe.config
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\bin\Debug\İmran_170201042.exe
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\bin\Debug\İmran_170201042.pdb
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\obj\Debug\İmran_170201042.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\obj\Debug\İmran_170201042.Form1.resources
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\obj\Debug\İmran_170201042.Properties.Resources.resources
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\obj\Debug\İmran_170201042.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\obj\Debug\İmran_170201042.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\obj\Debug\İmran_170201042.exe
+C:\Users\ASUS\source\repos\İmran_170201042\İmran_170201042\obj\Debug\İmran_170201042.pdb
